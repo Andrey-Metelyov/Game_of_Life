@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game_of_Life.iml" filepath="$PROJECT_DIR$/.idea/modules/Game_of_Life.iml" group="Game_of_Life" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game of Life/task/Game_of_Life-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Game of Life/task/Game_of_Life-task.iml" group="Game_of_Life/Game_of_Life-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game of Life/task/Game_of_Life-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Game of Life/task/Game_of_Life-task_main.iml" group="Game_of_Life/Game_of_Life-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game of Life/task/Game_of_Life-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Game of Life/task/Game_of_Life-task_test.iml" group="Game_of_Life/Game_of_Life-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Convert a date/Problems-Convert_a_date.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Convert a date/Problems-Convert_a_date.iml" group="Game_of_Life/Problems-Convert_a_date" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Convert a date/Problems-Convert_a_date_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Convert a date/Problems-Convert_a_date_main.iml" group="Game_of_Life/Problems-Convert_a_date" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Convert a date/Problems-Convert_a_date_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Convert a date/Problems-Convert_a_date_test.iml" group="Game_of_Life/Problems-Convert_a_date" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Finding and starting a thread/Problems-Finding_and_starting_a_thread.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Finding and starting a thread/Problems-Finding_and_starting_a_thread.iml" group="Game_of_Life/Problems-Finding_and_starting_a_thread" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Finding and starting a thread/Problems-Finding_and_starting_a_thread_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Finding and starting a thread/Problems-Finding_and_starting_a_thread_main.iml" group="Game_of_Life/Problems-Finding_and_starting_a_thread" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Finding and starting a thread/Problems-Finding_and_starting_a_thread_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Finding and starting a thread/Problems-Finding_and_starting_a_thread_test.iml" group="Game_of_Life/Problems-Finding_and_starting_a_thread" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Handling interruptions/Problems-Handling_interruptions.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Handling interruptions/Problems-Handling_interruptions.iml" group="Game_of_Life/Problems-Handling_interruptions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Handling interruptions/Problems-Handling_interruptions_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Handling interruptions/Problems-Handling_interruptions_main.iml" group="Game_of_Life/Problems-Handling_interruptions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Handling interruptions/Problems-Handling_interruptions_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Handling interruptions/Problems-Handling_interruptions_test.iml" group="Game_of_Life/Problems-Handling_interruptions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Interrupting a thread/Problems-Interrupting_a_thread.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Interrupting a thread/Problems-Interrupting_a_thread.iml" group="Game_of_Life/Problems-Interrupting_a_thread" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Interrupting a thread/Problems-Interrupting_a_thread_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Interrupting a thread/Problems-Interrupting_a_thread_main.iml" group="Game_of_Life/Problems-Interrupting_a_thread" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Interrupting a thread/Problems-Interrupting_a_thread_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Interrupting a thread/Problems-Interrupting_a_thread_test.iml" group="Game_of_Life/Problems-Interrupting_a_thread" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Game_of_Life/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Game_of_Life/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Game_of_Life/util" />
+    </modules>
+  </component>
+</project>

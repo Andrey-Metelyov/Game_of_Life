@@ -1,0 +1,14 @@
+# Project exclude paths
+/.gradle/
+/Game of Life/task/build/
+/Game of Life/task/out/
+/Game of Life/task/out/production/classes/
+/Game of Life/task/out/test/classes/
+/Problems/Convert a date/out/
+/Problems/Convert a date/out/production/classes/
+/Problems/Finding and starting a thread/out/
+/Problems/Finding and starting a thread/out/production/classes/
+/Problems/Handling interruptions/out/
+/Problems/Handling interruptions/out/production/classes/
+/Problems/Interrupting a thread/out/
+/Problems/Interrupting a thread/out/production/classes/
